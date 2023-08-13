@@ -12,4 +12,4 @@ En la cual se desarrollo los siguientes endpoints:
 6. Solicitar lo recaudado en una fecha en especifico.
 7. Solicitar la mayor venta historica.
 
-Dicho trabajo se realizo con Spring Boot, la conexion a la base de datos se realizo mediante JPA + Hibernate, se siguio el protocolo HTTP para Apis Rest, se diseño siguiendo la arquitectura MVC desde la perspectiva del backend.
+Dicho trabajo se realizo con Java utilizando Spring Framework, mas especifico Spring Boot, la conexion a la base de datos se realizo mediante JPA + Hibernate, se siguio el protocolo HTTP para Apis Rest, se diseño siguiendo la arquitectura MVC desde la perspectiva del backend.
